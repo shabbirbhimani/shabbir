@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Most shared content
-Plugin URI: http://imtips.co/most-shared-content/
+Plugin URI: http://imtips.co/most-shared-content.html
 Description: Checks facebook share count for each post and displays them to you based on most shared content.
 Author: Shabbir Bhimani
 Version: 0.1
